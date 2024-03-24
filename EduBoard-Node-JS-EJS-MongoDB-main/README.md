@@ -1,7 +1,7 @@
-# EduBoard-Node-JS-EJS-MongoDB
+# EduBoard-Nodejs,Expressjs,MongoDB
 Node.js MongoDb EJS
 # About
-EduBoard is a Modern Learning Mangement Sysytem enhanced by AI.It has number of features like video conference, real sharing white board, course mangement, chatbot etc.
+EduBoard is a Modern Learning Mangement System enhanced by AI.It has number of features like video conference, real sharing white board, course mangement, chatbot etc.
 
 # Screenshots
 
